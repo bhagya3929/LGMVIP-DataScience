@@ -1,5 +1,5 @@
 # LGMVIP-DataScience
-Contains the tasks of LetsGrowMore Internship
+Contains the tasks of LetsGrowMore Internship: Image to Pencil Sketch with Python and Prediction using Decision Tree Algorithm.
 
 1) Image to Pencil Sketch with Python
 
