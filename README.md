@@ -10,6 +10,6 @@ Contains the tasks of LetsGrowMore Internship
 ![Screenshot (73)](https://user-images.githubusercontent.com/77850791/130353530-8469a767-fe2f-455e-8764-89c36960bf58.png)
 
 
-2) Prediction using Decision Tree Algorithm
+2) Prediction using Decision Tree Algorithm: Create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 ![visualization](https://user-images.githubusercontent.com/77850791/130353661-47147e01-e1e0-4d21-ab4f-69fda7d9aef7.png)
